@@ -3,7 +3,7 @@
 MIS DATOS
 
 
-J. Alejandro Cuevas Rodríguez
+## J. Alejandro Cuevas Rodríguez
 
 alejandro.com.net@gmail.com
 
@@ -22,11 +22,11 @@ Para ejecutarlo basta con dar doble clic en el archivo morse.bat. El cuál permi
 
 Dentro de la carpeta evidencias se encuentran dos imágenes para comprender más fácilmente la explicación de su uso. Es muy sencillo, ya que la interfaz fue diseñada pensando en la comodidad del usuario. 
 
-##De Texto Natural a Código Morse
+## De Texto Natural a Código Morse
 ![text2morse](/evidencias/morseCapturaEntrada.JPG)
 
 
-##De Código Morse a Texto Natural
+## De Código Morse a Texto Natural
 ![morse2text](/evidencias/morseCapturaSalida.JPG)
 
 
