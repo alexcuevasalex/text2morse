@@ -23,7 +23,7 @@ Para ejecutarlo basta con dar doble clic en el archivo morse.bat. El cuál permi
 Dentro de la carpeta evidencias se encuentran dos imágenes para comprender más fácilmente la explicación de su uso. Es muy sencillo, ya que la interfaz fue diseñada pensando en la comodidad del usuario. 
 
 ##De Texto Natural a Código Morse
-![text2morse](/Evidencias/morseCapturaEntrada.JPG)
+![text2morse](/evidencias/morseCapturaEntrada.JPG)
 
 
 ##De Código Morse a Texto Natural
